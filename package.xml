@@ -5,7 +5,7 @@
     <name>AuraDefinitionBundle</name>
   </types>
   <types>
-    <members>AccountListViewMambo</members>
+    <members>AccountListViewBulkMambo</members>
     <name>ApexPage</name>
   </types>
   <version>55.0</version>
